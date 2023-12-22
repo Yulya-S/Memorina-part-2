@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">project 28.10</string>
+    <string name="click_count">Вы кликнули %d раз</string>
+    <string name="button_title">Нажми меня</string>
+</resources>
